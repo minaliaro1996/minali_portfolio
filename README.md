@@ -1,4 +1,4 @@
-# minali_portfolio
+# Project : Monitor revenue generation from courses, subscriptions, and partnerships.
 Analytics Portfolio
 CREATE TABLE Courses (
     course_id INT PRIMARY KEY,
